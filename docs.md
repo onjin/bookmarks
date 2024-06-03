@@ -1,0 +1,11 @@
+- folder:docs
+  - folder:os
+    - folder:nixos
+      - [NixOS Search - Packages](https://search.nixos.org/packages)
+      - [Appendix A. Home Manager Configuration Options](https://nix-community.github.io/home-manager/options.xhtml)
+      - [sops/README.rst at main · getsops/sops](https://github.com/getsops/sops/blob/main/README.rst)
+  - folder:web
+    - folder:templates
+      - [Elements - Paper Dashboard Pro by Creative Tim](https://demos.creative-tim.com/paper-dashboard-pro/documentation/tutorial-components.html)
+    - folder:css
+      - [Flexbox Froggy - Gra wprowadzająca do CSS flexbox"](https://flexboxfroggy.com/#pl)
